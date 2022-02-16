@@ -1,7 +1,7 @@
 ## Olá! Sou Pedro Leonardo
 
-- 🔭 Hoje Trabalho com HTML/CSS e JavaScript  
-- 🌱 Estou estudando Algoritmos, JavaScript e Python
+--Estudo Engenharia de Software
+--Estudo algoritmos e JavaScript
 
  <div>
   <a href="https://github.com/PedroLeonardo01">
