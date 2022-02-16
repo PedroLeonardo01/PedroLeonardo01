@@ -1,6 +1,8 @@
 ## Olá! Sou Pedro Leonardo
 
---Estudo Engenharia de Software
+--Estudo Engenharia de Software EAD na Unopar-PR
+
+
 --Estudo algoritmos e JavaScript
 
  <div>
