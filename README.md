@@ -2,9 +2,6 @@
 
 --Estudo Engenharia de Software EAD na Unopar-PR
 
-
---Estudo algoritmos e JavaScript
-
  <div>
   <a href="https://github.com/PedroLeonardo01">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=PedroLeonardo01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
